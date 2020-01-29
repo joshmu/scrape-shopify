@@ -3,4 +3,6 @@
 *.txt
 /fox/logs
 *.log
+!package.json
+!package-lock.json
 

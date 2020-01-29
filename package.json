@@ -1,0 +1,14 @@
+{
+  "name": "scout",
+  "version": "1.0.0",
+  "description": "shopify product research bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josh mu",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
